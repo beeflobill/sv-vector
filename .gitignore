@@ -1,0 +1,13 @@
+.cde_setup
+test/*/
+test/*.err
+test/*.log
+test/*.log
+test/*.wgl
+test/*.tab
+test/*.stil
+test/*.history
+test/*.key
+test/*.vtran*
+
+
